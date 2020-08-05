@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321590420056",
+    "firebase_url": "https://automatic-farming.firebaseio.com",
+    "project_id": "automatic-farming",
+    "storage_bucket": "automatic-farming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321590420056:android:52ddf4984e8dc25e",
+        "android_client_info": {
+          "package_name": "com.example.nikunjramani.automaticirrigationandcropminitoringsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321590420056-013jcrn5ke9nispv6v1uoelo4665466r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAStqAnJ7wbUaihkbmB8wfr0M63ZkQa4NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321590420056-013jcrn5ke9nispv6v1uoelo4665466r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

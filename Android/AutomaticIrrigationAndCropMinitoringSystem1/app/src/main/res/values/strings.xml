@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Automatic Irrigation And Crop Minitoring System</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_preference"> com.example.nikunjramani.automaticirrigationandcropminitoringsystem_login_preference</string>
+    <string name="login_status_preference"> com.example.nikunjramani.automaticirrigationandcropminitoringsystem_login_status_preference</string>
+    <string-array name="crop_type">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+    <string name="temprature">Temprature</string>
+    <string name="humidity">Humidity</string>
+    <string name="waterlevel">Water Level</string>
+    <string name="moisture">Moisture</string>
+    <string name="temprature_guj"> તાપમાન</string>
+    <string name="humidity_guj">ભેજમાન</string>
+    <string name="waterlevel_guj">જળસપાટી</string>
+    <string name="moisture_guj">ભીનાશ</string>
+
+    <string-array name="crop_require_water">
+        <item>Rice90%</item>
+        <item>Wheat 60%</item>
+        <item>Wheat flour 70%</item>
+        <item>Bajra  40%</item>
+        <item>Sorghum 40%</item>
+        <item>Ladies Fingure 50%</item>
+        <item>Papaya 60%</item>
+        <item>Banana 50%</item>
+        <item>Indian Bean 60%</item>
+        <item>Cluster Beans 50%</item>
+        <item>Munge 40%</item>
+        <item>Bottle gourd 50%</item>
+        <item>Gingelly 60%</item>
+        <item>Coconut 30%</item>
+        <item>Chilies 60%</item>
+        <item>Gingelly 50%</item>
+        <item>Tea Crop 60%</item>
+        <item>Sugure Cane 80%</item>
+        <item>Onion 70%</item>
+        <item>Poteto 30%</item>
+    </string-array>
+    <string name="crops">
+        Food grains
+            Wheat
+            Rice
+            Jowar
+            Ragi and Bajra (millets)
+            Sorghum
+
+        Spices
+            Cardamom
+            Nutmeg and mace
+            Garlic
+            Turmeric
+            Ginger
+            Dry chillies and peppers
+            Coriander
+            Anise
+
+        Seeds and pulses
+            Safflower seeds
+            Castor oil seeds
+            Pulses
+            Sesame seeds
+            Cotton seed and lint
+            Lentil
+            Fennel
+
+        Vegetables
+            Lemons
+            Chickpeas
+            Okra
+            Cauliflowers
+            Green peas
+            Pumpkins
+            Potatoes
+            Gourds
+            Tomatoes
+            Cabbages
+            Onions
+            Dry beans
+            Limes
+            Pigeon peas
+            Brinjal
+
+        Fruits
+            Coconuts
+            Banana
+            Mangoes
+            Guavas
+            Squashes
+            Sugarcane
+            Tropical fresh fruit
+
+        Nuts
+            Cashew nuts
+            Groundnut
+
+        Beverages
+            Tea
+            Coffee
+    </string>
+</resources>
